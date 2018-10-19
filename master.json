@@ -1,18 +1,52 @@
 {
   "regions": [
     {
-      "slug": "nalcs",
-      "id"  : 1,
-      "name": "North American League Championship Series",
-      "logo": "https://lolstatic-a.akamaihd.net/esports-assets/production/league/na-lcs-g63ljv52.png",
+      "slug"   : "nalcs",
+      "id"     : 1,
+      "name"   : "North American League Championship Series",
+      "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/league/na-lcs-g63ljv52.png",
       "acronym": "NA LCS",
-      "seasons": {
-        "2016": "nalcs/2016.json",
-        "2017": "nalcs/2017.json",
-        "2018": "nalcs/2018.json"
-      },
-      "teams": "nalcs/teams.json",
-      "players": "nalcs/players.json"
+      "master" : "nalcs/master.json",
+    },
+    {
+      "slug"   : "eulcs",
+      "id"     : 2,
+      "name"   : "European League Championship Series",
+      "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/league/eu-lcs-eok6878z.png",
+      "acronym": "EULCS",
+      "master" : "eulcs/master.json"
+    },
+    {
+      "slug"   : "lck",
+      "id"     : 3,
+      "name"   : "League of Legends Champions Korea",
+      "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/league/lck-7epeu9ot.png",
+      "acronym": "LCK",
+      "master" : "lck/master.json"
+    },
+    {
+      "slug"   : "lpl",
+      "id"     : 4,
+      "name"   : "Tencent League of Legends Pro League",
+      "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/league/lpl-china-6ygsd4c8.png",
+      "acronym": "LPL",
+      "master" : "lpl/master.json"
+    },
+    {
+      "slug"   : "lms",
+      "id"     : 5,
+      "name"   : "League of Legends Master Series",
+      "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/league/lms-61367pag.png",
+      "acronym": "LMS",
+      "master" : "lms/master.json"
+    },
+    {
+      "slug"   : "worlds",
+      "id"     : 6,
+      "name"   : "World Championship",
+      "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/league/worlds-3om032jn.png",
+      "acronym": "WC",
+      "master" : "worlds/master.json"
     }
-  ],
+  ]
 }

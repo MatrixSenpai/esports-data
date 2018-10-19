@@ -10,7 +10,10 @@
 | LMS     | 5             |                 | No              | No                |
 | Worlds  | 6             |                 | No              | No                |
 > Unsupported regions or tournaments include:  
-> NA Academy, MSI, Rift Rivals, All-Star Event, NA Scouting Grounds
+> NA Academy, MSI, Rift Rivals, All-Star Event, NA Scouting Grounds  
+> CBLoL (Brazil), LCL (Commonwealth of Independent States), LJL (Japan),
+> LLN (Latin America North), CLS (Latin America South), OPL (Oceania),
+> TCL(Turkey), SEA (Southeast Asia), VCS (Vietnam)
 
 ## What is this?
 League's [Esports Site](https://lolesports.com) is great, but their API isn't public,
