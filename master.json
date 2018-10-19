@@ -1,0 +1,18 @@
+{
+  "regions": [
+    {
+      "slug": "nalcs",
+      "id"  : 1,
+      "name": "North American League Championship Series",
+      "logo": "https://lolstatic-a.akamaihd.net/esports-assets/production/league/na-lcs-g63ljv52.png",
+      "acronym": "NA LCS",
+      "seasons": {
+        "2016": "nalcs/2016.json",
+        "2017": "nalcs/2017.json",
+        "2018": "nalcs/2018.json"
+      },
+      "teams": "nalcs/teams.json",
+      "players": "nalcs/players.json"
+    }
+  ],
+}
