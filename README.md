@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Available Regions](#available-regions)
 - [About](#what-is-this)
-- [The Breakdown](#the-breakdown-\(with-matrixsenpai\))
+- [The Breakdown](#the-breakdown)
 - [ToDo](#todo)
 - [Contributors](#contributors)
 - [Legal](#legal-stuff)
@@ -33,7 +33,8 @@ to go through hundreds of lines of JSON.
 
 So...welcome to the last League JSON file you'll need to go through.
 
-## The Breakdown (with MatrixSenpai)
+## The Breakdown
+### (with MatrixSenpai)
 There's a lot of data in this repo. Here's how it's broken down.
 > TL;DR  
 > Master contains a `region` key with regions, and references to each  
