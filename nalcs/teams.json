@@ -13,13 +13,6 @@
         "sup": 0
       }
     },
-    "apx": {
-      "name"   : "Apex",
-      "id"     : 1002,
-      "acronym": "APX",
-      "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/apex-9sdy9cc9.png",
-      "players": []
-    },
     "c9": {
       "name"   : "Cloud9",
       "id"     : 1103,
@@ -103,13 +96,6 @@
       "id"     : 1009,
       "acronym": "IMT",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/immortals-7frapkxr.png",
-      "players": []
-    },
-    "nrg": {
-      "name"   : "NRG Esports",
-      "id"     : 1010,
-      "acronym": "NRG",
-      "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/nrg-esports-2hxi3sw4.png",
       "players": []
     },
     "otg": {

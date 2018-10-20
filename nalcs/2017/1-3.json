@@ -1,0 +1,181 @@
+{
+  "week": {
+    "days": {
+      "1": {
+        "day_start": 1486162800,
+        "games": {
+          "1": {
+            "blue": 1009,
+            "red" : 1012,
+            "blue_wins": 0,
+            "red_wins" : 2,
+            "games": {
+              "1": "https://youtu.be/F_RcvZC3-_k",
+              "2": "https://youtu.be/BV_ou864z0o",
+              "3": ""
+            },
+            "matches": {
+              "1": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002070006?gameHash=4a9c3fc9369309e9",
+              "2": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002070017?gameHash=fbad0fd4e657d536",
+              "3": ""
+            }
+          },
+          "2": {
+            "blue": 1014,
+            "red" : 1115,
+            "blue_wins": 2,
+            "red_wins" : 0,
+            "games": {
+              "1": "https://youtu.be/G-dqaO4-xIg",
+              "2": "https://youtu.be/NLz01bky0tk",
+              "3": ""
+            },
+            "matches": {
+              "1": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002070018?gameHash=a68b5acc44003c32",
+              "2": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002070027?gameHash=d69f4c67eba4d60b",
+              "3": ""
+            }
+          }
+        }
+      },
+      "2": {
+        "day_start": 0,
+        "games": {
+          "1": {
+            "blue": 0,
+            "red" : 0,
+            "blue_wins": 0,
+            "red_wins" : 0,
+            "games": {
+              "1": "",
+              "2": "",
+              "3": ""
+            },
+            "matches": {
+              "1": "",
+              "2": "",
+              "3": ""
+            }
+          },
+          "2": {
+            "blue": 0,
+            "red" : 0,
+            "blue_wins": 0,
+            "red_wins" : 0,
+            "games": {
+              "1": "",
+              "2": "",
+              "3": ""
+            },
+            "matches": {
+              "1": "",
+              "2": "",
+              "3": ""
+            }
+          },
+          "3": {
+            "blue": 0,
+            "red" : 0,
+            "blue_wins": 0,
+            "red_wins" : 0,
+            "games": {
+              "1": "",
+              "2": "",
+              "3": ""
+            },
+            "matches": {
+              "1": "",
+              "2": "",
+              "3": ""
+            }
+          },
+          "4": {
+            "blue": 0,
+            "red" : 0,
+            "blue_wins": 0,
+            "red_wins" : 0,
+            "games": {
+              "1": "",
+              "2": "",
+              "3": ""
+            },
+            "matches": {
+              "1": "",
+              "2": "",
+              "3": ""
+            }
+          }
+        }
+      },
+      "3": {
+        "day_start": 0,
+        "games": {
+          "1": {
+            "blue": 0,
+            "red" : 0,
+            "blue_wins": 0,
+            "red_wins" : 0,
+            "games": {
+              "1": "",
+              "2": "",
+              "3": ""
+            },
+            "matches": {
+              "1": "",
+              "2": "",
+              "3": ""
+            }
+          },
+          "2": {
+            "blue": 0,
+            "red" : 0,
+            "blue_wins": 0,
+            "red_wins" : 0,
+            "games": {
+              "1": "",
+              "2": "",
+              "3": ""
+            },
+            "matches": {
+              "1": "",
+              "2": "",
+              "3": ""
+            }
+          },
+          "3": {
+            "blue": 0,
+            "red" : 0,
+            "blue_wins": 0,
+            "red_wins" : 0,
+            "games": {
+              "1": "",
+              "2": "",
+              "3": ""
+            },
+            "matches": {
+              "1": "",
+              "2": "",
+              "3": ""
+            }
+          },
+          "4": {
+            "blue": 0,
+            "red" : 0,
+            "blue_wins": 0,
+            "red_wins" : 0,
+            "games": {
+              "1": "",
+              "2": "",
+              "3": ""
+            },
+            "matches": {
+              "1": "",
+              "2": "",
+              "3": ""
+            }
+          }
+        }
+      },
+    }
+  }
+}

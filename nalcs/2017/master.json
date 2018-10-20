@@ -1,0 +1,45 @@
+{
+  "2017": {
+    "season_start": 1484892000,
+    "season_mode" : "bo3",
+    "splits": {
+      "spring": {
+        "regular_season": {
+          "week_1": "./nalcs/2017/1-1.json",
+          "week_2": "./nalcs/2017/1-2.json",
+          "week_3": "./nalcs/2017/1-3.json",
+          "week_4": "./nalcs/2017/1-4.json",
+          "week_5": "./nalcs/2017/1-5.json",
+          "week_6": "./nalcs/2017/1-6.json",
+          "week_7": "./nalcs/2017/1-7.json",
+          "week_8": "./nalcs/2017/1-8.json",
+          "week_9": "./nalcs/2017/1-9.json",
+        },
+        "playoffs": {
+          "quarterfinals": "./nalcs/2017/qf-1.json",
+          "semifinals"   : "./nalcs/2017/sf-1.json",
+          "finals"       : "./nalcs/2017/f-1.json"
+        }
+      },
+      "summer": {
+        "regular_season": {
+          "week_1": "./nalcs/2017/2-1.json",
+          "week_2": "./nalcs/2017/2-2.json",
+          "week_3": "./nalcs/2017/2-3.json",
+          "week_4": "./nalcs/2017/2-4.json",
+          "week_5": "./nalcs/2017/2-5.json",
+          "week_6": "./nalcs/2017/2-6.json",
+          "week_7": "./nalcs/2017/2-7.json",
+          "week_8": "./nalcs/2017/2-8.json",
+          "week_9": "./nalcs/2017/2-9.json",
+        },
+        "playoffs": {
+          "quarterfinals": "./nalcs/2017/qf-2.json",
+          "semifinals"   : "./nalcs/2017/sf-2.json",
+          "finals"       : "./nalcs/2017/f-2.json"
+        }
+      }
+    },
+    "teams": [1103, 1105, 1106, 1107, 1009, 1012, 1013, 1014, 1115, 1116]
+  }
+}

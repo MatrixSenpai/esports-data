@@ -1,14 +1,22 @@
 # LoL Esports Data
 
+## Table of Contents
+- [Available Regions](#available-regions)
+- [About](#what-is-this)
+- [The Breakdown](#the-breakdown)
+- [ToDo](#todo)
+- [Contributors](#contributors)
+- [Legal](#legal-stuff)
+
 ## Available Regions
-| Region  | Region Number | Years Available | Teams Available | Players Available |
-|---------|:-------------:|-----------------|:---------------:|:-----------------:|
-| NA LCS  | 1             | 2016, 2017, 2018| Yes             | Yes               |
-| EU LCS  | 2             |                 | No              | No                |
-| LCK     | 3             |                 | No              | No                |
-| LPL     | 4             |                 | No              | No                |
-| LMS     | 5             |                 | No              | No                |
-| Worlds  | 6             |                 | No              | No                |
+| Region  | Region Number | Years Available  | Teams Available | Players Available |
+|---------|:-------------:|----------------- |:---------------:|:-----------------:|
+| NA LCS  | 1             | 2017, 2018       | Yes             | Yes               |
+| EU LCS  | 2             |                  | No              | No                |
+| LCK     | 3             |                  | No              | No                |
+| LPL     | 4             |                  | No              | No                |
+| LMS     | 5             |                  | No              | No                |
+| Worlds  | 6             |                  | No              | No                |
 > Unsupported regions or tournaments include:  
 > NA Academy, MSI, Rift Rivals, All-Star Event, NA Scouting Grounds  
 > CBLoL (Brazil), LCL (Commonwealth of Independent States), LJL (Japan),
