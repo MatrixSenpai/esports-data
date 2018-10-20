@@ -1,0 +1,86 @@
+{
+  "week": {
+    "days": {
+      "1": {
+        "day_start": 1534021200,
+        "games": {
+          "1": {
+            "blue" : 1101,
+            "red"  : 1106,
+            "won"  : 0,
+            "game" : "https://youtu.be/BkXUdOqIxds",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710017?gameHash=f212b78affa82674"
+          },
+          "2": {
+            "blue" : 1103,
+            "red"  : 1108,
+            "won"  : 0,
+            "game" : "https://youtu.be/_kaAusqjjHE",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710019?gameHash=91df6b5f7747ff19"
+          },
+          "3": {
+            "blue" : 1105,
+            "red"  : 1116,
+            "won"  : 1,
+            "game" : "https://youtu.be/SM1eZFf9aRg",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710029?gameHash=d3568cd46a3c0555"
+          },
+          "4": {
+            "blue" : 1111,
+            "red"  : 1115,
+            "won"  : 1,
+            "game" : "https://youtu.be/7piFPJhCLNc",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710038?gameHash=bbaab603613dcc54"
+          },
+          "5": {
+            "blue" : 1104,
+            "red"  : 1107,
+            "won"  : 0,
+            "game" : "https://youtu.be/4Y5x_94KnCE",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710048?gameHash=41e299bc41f93628"
+          },
+        }
+      },
+      "2": {
+        "day_start": 1534100400,
+        "games": {
+          "1": {
+            "blue" : 1106,
+            "red"  : 1111,
+            "won"  : 1,
+            "game" : "https://youtu.be/6kDdxRAjZTs",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710059?gameHash=3ba118a72c0048b1"
+          },
+          "2": {
+            "blue" : 1108,
+            "red"  : 1104,
+            "won"  : 1,
+            "game" : "https://youtu.be/rmjkIB3ZSK8",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710063?gameHash=e379892014eda65a"
+          },
+          "3": {
+            "blue" : 1116,
+            "red"  : 1101,
+            "won"  : 0,
+            "game" : "https://youtu.be/78nt0rINauw",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710071?gameHash=cb56d139cac68be6"
+          },
+          "4": {
+            "blue" : 1115,
+            "red"  : 1103,
+            "won"  : 1,
+            "game" : "https://youtu.be/M85awbpJigY",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710079?gameHash=1a281cd84db17be3"
+          },
+          "5": {
+            "blue" : 1107,
+            "red"  : 1105,
+            "won"  : 0,
+            "game" : "https://youtu.be/5Yhhl8p9C1s",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710091?gameHash=febb2d4145ca86a4"
+          },
+        }
+      }
+    }
+  }
+}

@@ -43,7 +43,7 @@
         "games": {
           "1": {
             "blue": 1009,
-            "red" : 1102,
+            "red" : 1103,
             "blue_wins": 0,
             "red_wins" : 2,
             "games": {
@@ -160,7 +160,7 @@
           },
           "4": {
             "blue": 1105,
-            "red" : 1102,
+            "red" : 1103,
             "blue_wins": 2,
             "red_wins" : 1,
             "games": {

@@ -1,0 +1,86 @@
+{
+  "week": {
+    "days": {
+      "1": {
+        "day_start": 0,
+        "games": {
+          "1": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+          "2": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+          "3": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+          "4": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+          "5": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+        }
+      },
+      "2": {
+        "day_start": 0,
+        "games": {
+          "1": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+          "2": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+          "3": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+          "4": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+          "5": {
+            "blue" : 1,
+            "red"  : 1,
+            "won"  : 0,
+            "game" : "",
+            "match": ""
+          },
+        }
+      }
+    }
+  }
+}

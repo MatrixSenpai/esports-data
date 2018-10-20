@@ -37,8 +37,16 @@
           "quarterfinals": "./nalcs/2017/qf-2.json",
           "semifinals"   : "./nalcs/2017/sf-2.json",
           "finals"       : "./nalcs/2017/f-2.json"
+        },
+        "guantlet": {
+          "rounds": "./nalcs/2017/gauntlet.json"
         }
       }
+    },
+    "suggested-icons": {
+      "regular_season": "fa-chess",
+      "playoffs": "fa-trophy",
+      "gauntlet": "fa-boxing-glove"
     },
     "teams": [1103, 1105, 1106, 1107, 1009, 1012, 1013, 1014, 1115, 1116]
   }
