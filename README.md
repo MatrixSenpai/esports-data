@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Available Regions](#available-regions)
 - [About](#what-is-this)
-- [The Breakdown](#the-breakdown)
+- [The Breakdown](#the-breakdown-\(with-matrixsenpai\))
 - [ToDo](#todo)
 - [Contributors](#contributors)
 - [Legal](#legal-stuff)
