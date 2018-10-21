@@ -38,7 +38,7 @@
             "won"  : 0,
             "game" : "https://youtu.be/YW85w8zANNU",
             "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002450171?gameHash=da8ff93d0741f444"
-          },
+          }
         }
       },
       "2": {
@@ -78,7 +78,7 @@
             "won"  : 0,
             "game" : "https://youtu.be/hKYthD2-ZbQ",
             "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002450220?gameHash=919a5e168b3a0880"
-          },
+          }
         }
       }
     }

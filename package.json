@@ -1,0 +1,23 @@
+{
+  "name": "esports-data-linter",
+  "version": "1.0.0",
+  "description": "Lint the data available, make sure there are no obvious mistakes",
+  "main": "checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrixsenpai/esports-data.git"
+  },
+  "author": "MatrixSenpai <math.matrix@icloud.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/matrixsenpai/esports-data/issues"
+  },
+  "homepage": "https://github.com/matrixsenpai/esports-data#readme",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-jsonlint": "^1.1.0"
+  }
+}
