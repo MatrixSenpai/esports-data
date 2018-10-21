@@ -11,7 +11,7 @@
 ## Available Regions
 | Region  | Region Number | Years Available  | Teams Available | Players Available |
 |---------|:-------------:|----------------- |:---------------:|:-----------------:|
-| NA LCS  | 1             | 2017, 2018       | Yes             | No                |
+| NA LCS  | 1             | 2018             | Yes             | Yes               |
 | EU LCS  | 2             |                  | No              | No                |
 | LCK     | 3             |                  | No              | No                |
 | LPL     | 4             |                  | No              | No                |
