@@ -1,0 +1,404 @@
+{
+  "players": {
+    "10001": {
+      "handle"  : "Impact",
+      "first"   : "Eon-Young",
+      "last"    : "Jeong",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/impact-11497kcz.png",
+      "starter" : 1
+    },
+    "11002": {
+      "handle"  : "Xmithie",
+      "first"   : "Jake",
+      "last"    : "Puchero",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/xmithie-fmdwl4vp.png",
+      "starter" : 1
+    },
+    "12003": {
+      "handle"  : "Pobelter",
+      "first"   : "Eugene",
+      "last"    : "Park",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/pobelter-7awyqj22.png",
+      "starter" : 1
+    },
+    "13004": {
+      "handle"  : "Doublelift",
+      "first"   : "Yiliang",
+      "last"    : "Peng",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/doublelift-4u1iw3tl.png",
+      "starter" : 1
+    },
+    "14005": {
+      "handle"  : "Olleh",
+      "first"   : "Joo-sung",
+      "last"    : "Kim",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/olleh-951z6yne.png",
+      "starter" : 1
+    },
+    "10006": {
+      "handle"  : "Licorice",
+      "first"   : "Eric",
+      "last"    : "Ritchie",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/licorice-2g1fjsvg.png",
+      "starter" : 1
+    },
+    "11007": {
+      "handle"  : "Svenskeren",
+      "first"   : "Dennis",
+      "last"    : "Johnsen",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/svenskeren-15aoowbk.png",
+      "starter" : 1
+    },
+    "12008": {
+      "handle"  : "Jensen",
+      "first"   : "Nicolaj",
+      "last"    : "Jensen",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/incarnati0n-7b7njwpe.png",
+      "starter" : 1
+    },
+    "13009": {
+      "handle"  : "Sneaky",
+      "first"   : "Zachary",
+      "last"    : "Scuderi",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/sneaky-54q93rnb.png",
+      "starter" : 1
+    },
+    "14010": {
+      "handle"  : "Zeyzal",
+      "first"   : "Tristan",
+      "last"    : "Stidam",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/zeyzal-7vvwucec.png",
+      "starter" : 1
+    },
+    "10011": {
+      "handle"  : "Ssumday",
+      "first"   : "Chanho",
+      "last"    : "Kim",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/ssumday-84izz7vs.png",
+      "starter" : 1
+    },
+    "11012": {
+      "handle"  : "AnDa",
+      "first"   : "Andy",
+      "last"    : "Hoang",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/anda-8hv195xz.png",
+      "starter" : 1
+    },
+    "12013": {
+      "handle"  : "Ryu",
+      "first"   : "Sangwook",
+      "last"    : "Yoo",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/ryu-hpuov75h.png",
+      "starter" : 1
+    },
+    "13014": {
+      "handle"  : "Rikara",
+      "first"   : "Richard",
+      "last"    : "Oh",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/rikara-cr96fmlc.png",
+      "starter" : 1
+    },
+    "14015": {
+      "handle"  : "Aphromoo",
+      "first"   : "Zaqueri",
+      "last"    : "Black",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/aphromoo-eszm3kzz.png",
+      "starter" : 1
+    },
+    "10016": {
+      "handle"  : "Huni",
+      "first"   : "Seung-hoon",
+      "last"    : "Heo",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/huni-h9o8smmx.png",
+      "starter" : 1
+    },
+    "11017": {
+      "handle"  : "Dardoch",
+      "first"   : "Joshua",
+      "last"    : "Hartnett",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/dardoch-aufnpmdg.png",
+      "starter" : 1
+    },
+    "12018": {
+      "handle"  : "Damonte",
+      "first"   : "Tanner",
+      "last"    : "Damonte",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/damonte-9okzucma.png",
+      "starter" : 1
+    },
+    "13019": {
+      "handle"  : "Lost",
+      "first"   : "Lawrence",
+      "last"    : "Sze Yuy Hui",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/lost-1iy07z1r.png",
+      "starter" : 1
+    },
+    "14020": {
+      "handle"  : "Smoothie",
+      "first"   : "Andy",
+      "last"    : "Ta",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/smoothie-2r9uj2qc.png",
+      "starter" : 1
+    },
+    "10021": {
+      "handle"  : "Hauntzer",
+      "first"   : "Kevin",
+      "last"    : "Yarnell",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/hauntzer-fsooz53j.png",
+      "starter" : 1
+    },
+    "11022": {
+      "handle"  : "Grig",
+      "first"   : "Jonathan",
+      "last"    : "Armao",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/grigne-39ti079.png",
+      "starter" : 1
+    },
+    "12023": {
+      "handle"  : "Bjergsen",
+      "first"   : "Søren",
+      "last"    : "Bjerg",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/bjergsen-123i257a.png",
+      "starter" : 1
+    },
+    "13024": {
+      "handle"  : "Zven",
+      "first"   : "Jesper",
+      "last"    : "Svenningsen",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/niels-3q4z7zso.png",
+      "starter" : 1
+    },
+    "14025": {
+      "handle"  : "Mithy",
+      "first"   : "Alfonso",
+      "last"    : "Rodriguez",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/mithy-8jqv85zn.png",
+      "starter" : 1
+    },
+    "10026": {
+      "handle"  : "Flame",
+      "first"   : "Hojong",
+      "last"    : "Lee",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/flame-bq1whz2o.png",
+      "starter" : 1
+    },
+    "11027": {
+      "handle"  : "Santorin",
+      "first"   : "Lucas",
+      "last"    : "Larsen",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/santorin-bvbih8uy.png",
+      "starter" : 1
+    },
+    "12028": {
+      "handle"  : "Keane",
+      "first"   : "Lae-young",
+      "last"    : "Jang",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/keane-34c0gcex.png",
+      "starter" : 1
+    },
+    "13029": {
+      "handle"  : "WildTurtle",
+      "first"   : "Jason",
+      "last"    : "Tran",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/wildturtle-752edvas.png",
+      "starter" : 1
+    },
+    "14030": {
+      "handle"  : "JayJ",
+      "first"   : "Juan",
+      "last"    : "Guibert",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/jayj-9wc4sqa4.png",
+      "starter" : 1
+    },
+    "10031": {
+      "handle"  : "Dhokla",
+      "first"   : "Niship",
+      "last"    : "Doshi",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/dhokla-8grharf7.png",
+      "starter" : 1
+    },
+    "11032": {
+      "handle"  : "Akaadian",
+      "first"   : "Matthew",
+      "last"    : "Higginbotham",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/akaadian-arjjb6h0.png",
+      "starter" : 1
+    },
+    "12033": {
+      "handle"  : "PowerOfEvil",
+      "first"   : "Tristan",
+      "last"    : "Schrage",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/powerofevil-57rbgkqx.png",
+      "starter" : 1
+    },
+    "13034": {
+      "handle"  : "Arrow",
+      "first"   : "Dong",
+      "last"    : "Hyeon Noh",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/arrow-9xdybgjc.png",
+      "starter" : 1
+    },
+    "14035": {
+      "handle"  : "Big",
+      "first"   : "Terry",
+      "last"    : "Chuong",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/big-9drb8ly3.png",
+      "starter" : 1
+    },
+    "10036": {
+      "handle"  : "Darshan",
+      "first"   : "Darshan",
+      "last"    : "Upadhyaya",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/zionspartan-8k1ldq0v.png",
+      "starter" : 1
+    },
+    "11037": {
+      "handle"  : "Wiggily",
+      "first"   : "Raymond",
+      "last"    : "Griffin",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/wiggily-99d4d3r7.png",
+      "starter" : 1
+    },
+    "12037": {
+      "handle"  : "Huhi",
+      "first"   : "Jae",
+      "last"    : "Hyun Choi",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/huhi-dfot8j7.png",
+      "starter" : 1
+    },
+    "13038": {
+      "handle"  : "Stixxay",
+      "first"   : "Trevor",
+      "last"    : "Hayes",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/stixxay-397l0pn6.png",
+      "starter" : 1
+    },
+    "14039": {
+      "handle"  : "Biofrost",
+      "first"   : "Vincent",
+      "last"    : "Wang",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/biofrost-5rwehwig.png",
+      "starter" : 1
+    },
+    "10040": {
+      "handle"  : "Solo",
+      "first"   : "Colin",
+      "last"    : "Earnest",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/solo-ciwe4r6r.png",
+      "starter" : 1
+    },
+    "11041": {
+      "handle"  : "Lira",
+      "first"   : "Taeyou",
+      "last"    : "Nam",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/lira-8lrss1lv.png",
+      "starter" : 1
+    },
+    "12042": {
+      "handle"  : "Febiven",
+      "first"   : "Fabian",
+      "last"    : "Diepstraten",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/febiven-jhy9h77n.png",
+      "starter" : 1
+    },
+    "13043": {
+      "handle"  : "Apollo",
+      "first"   : "Apollo",
+      "last"    : "Price",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/apollo-40jqxii6.png",
+      "starter" : 1
+    },
+    "14044": {
+      "handle"  : "Hakuho",
+      "first"   : "Nickolas",
+      "last"    : "Surgent",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/hakuho-12oxodrm.png",
+      "starter" : 1
+    },
+    "10045": {
+      "handle"  : "Lourlo",
+      "first"   : "Samson",
+      "last"    : "Jackson",
+      "position": 0,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/lourlo-2pij525w.png",
+      "starter" : 1
+    },
+    "11046": {
+      "handle"  : "Contractz",
+      "first"   : "Juan",
+      "last"    : "Garcia",
+      "position": 1,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/contractz-fft4zydk.png",
+      "starter" : 1
+    },
+    "12047": {
+      "handle"  : "bobqin",
+      "first"   : "Boyuan",
+      "last"    : "Qin",
+      "position": 2,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/bobqinxd-ilgjua2u.png",
+      "starter" : 1
+    },
+    "13048": {
+      "handle"  : "Deftly",
+      "first"   : "Matthew",
+      "last"    : "Chen",
+      "position": 3,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/deftly-gsbsitmc.png",
+      "starter" : 1
+    },
+    "14049": {
+      "handle"  : "Matt",
+      "first"   : "Matt",
+      "last"    : "Elento",
+      "position": 4,
+      "icon"    : "https://lolstatic-a.akamaihd.net/esports-assets/production/player/matt-4kf1st83.png",
+      "starter" : 1
+    }
+  }
+}

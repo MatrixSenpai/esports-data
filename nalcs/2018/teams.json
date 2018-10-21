@@ -1,161 +1,161 @@
 {
   "teams": {
-    "100": {
+    "1101": {
       "name"   : "100 Thieves",
       "id"     : 1101,
       "acronym": "100",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/100-thieves-4ejlxysw.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10011,
+        "jg" : 11012,
+        "mid": 12013,
+        "bot": 13014,
+        "sup": 14015
       }
     },
-    "c9": {
+    "1103": {
       "name"   : "Cloud9",
       "id"     : 1103,
       "acronym": "C9",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/cloud9-gnd9b0gn.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10006,
+        "jg" : 11007,
+        "mid": 12008,
+        "bot": 13009,
+        "sup": 14010
       }
     },
-    "cg": {
+    "1104": {
       "name"   : "Clutch Gaming",
       "id"     : 1104,
       "acronym": "CG",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/clutch-gaming-74797kth.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10040,
+        "jg" : 11041,
+        "mid": 12042,
+        "bot": 13043,
+        "sup": 14044
       }
     },
-    "clg": {
+    "1105": {
       "name"   : "Counter Logic Gaming",
       "id"     : 1105,
       "acronym": "CLG",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/counter-logic-gaming-gvqf8y59.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10036,
+        "jg" : 11037,
+        "mid": 12037,
+        "bot": 13038,
+        "sup": 14039
       }
     },
-    "fox": {
+    "1106": {
       "name"   : "Echo Fox",
       "id"     : 1106,
       "acronym": "FOX",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/echo-fox-f3anfude.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10016,
+        "jg" : 11017,
+        "mid": 12018,
+        "bot": 13019,
+        "sup": 14020
       }
     },
-    "fq": {
+    "1107": {
       "name"   : "FlyQuest",
       "id"     : 1107,
       "acronym": "FQ",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/flyquest-9t3ydumy.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10026,
+        "jg" : 11027,
+        "mid": 12028,
+        "bot": 13029,
+        "sup": 14030
       }
     },
-    "ggs": {
+    "1108": {
       "name"   : "Golden Guardians",
       "id"     : 1108,
       "acronym": "GGS",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/golden-guardians-4ptra55d.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10045,
+        "jg" : 11046,
+        "mid": 12047,
+        "bot": 13048,
+        "sup": 14049
       }
     },
-    "imt": {
+    "1009": {
       "name"   : "Immortals",
       "id"     : 1009,
       "acronym": "IMT",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/immortals-7frapkxr.png",
       "players": []
     },
-    "otg": {
+    "1111": {
       "name"   : "OpTic Gaming",
       "id"     : 1111,
       "acronym": "OTG",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/optic-gaming-2hm8y6fl.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10031,
+        "jg" : 11032,
+        "mid": 12033,
+        "bot": 13034,
+        "sup": 14035
       }
     },
-    "p1": {
+    "1012": {
       "name"   : "Phoenix1",
       "id"     : 1012,
       "acronym": "P1",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/phoenix1-fw17w8yu.png",
       "players": []
     },
-    "dig": {
+    "1013": {
       "name"   : "Team Dignitas",
       "id"     : 1013,
       "acronym": "DIG",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/team-dignitas-c5j84saq.png",
       "players": []
     },
-    "nv": {
+    "1014": {
       "name"   : "Team Envy",
       "id"     : 1014,
       "acronym": "NV",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/team-envy-1tyrikdl.png",
       "players": []
     },
-    "tl": {
+    "1115": {
       "name"   : "Team Liquid",
       "id"     : 1115,
       "acronym": "TL",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/team-liquid-8wr6x4o4.png",
       "players": {
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10001,
+        "jg" : 11002,
+        "mid": 12003,
+        "bot": 13004,
+        "sup": 14005
       }
     },
-    "tsm": {
+    "1116": {
       "name"   : "Team Solo Mid",
       "id"     : 1116,
       "acronym": "TSM",
       "logo"   : "https://lolstatic-a.akamaihd.net/esports-assets/production/team/team-solomid-741l0vtg.png",
       "players":{
-        "top": 0,
-        "jg" : 0,
-        "mid": 0,
-        "bot": 0,
-        "sup": 0
+        "top": 10021,
+        "jg" : 11022,
+        "mid": 12023,
+        "bot": 13024,
+        "sup": 14025
       }
     }
   }

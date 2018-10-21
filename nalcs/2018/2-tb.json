@@ -1,0 +1,39 @@
+{
+  "week": {
+    "days": {
+      "1": {
+        "day_start": 1534802400,
+        "games": {
+          "1": {
+            "blue" : 1116,
+            "red"  : 1106,
+            "win"  : 1,
+            "game" : "https://youtu.be/xs61yqqbFBk",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710252?gameHash=8139ad59c0579081"
+          },
+          "2": {
+            "blue" : 1101,
+            "red"  : 1107,
+            "win"  : 0,
+            "game" : "https://youtu.be/rnCglL1JCr4",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710259?gameHash=fd16dfdbf6f05663"
+          },
+          "3": {
+            "blue" : 1116,
+            "red"  : 1107,
+            "win"  : 0,
+            "game" : "https://youtu.be/69eGmfRzzMc",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710266?gameHash=a6fb3e8d0638f81f"
+          },
+          "4": {
+            "blue" : 1101,
+            "red"  : 1107,
+            "win"  : 0,
+            "game" : "https://youtu.be/T6fNqQeTsw8",
+            "match": "https://matchhistory.na.leagueoflegends.com/en/#match-details/TRLH1/1002710271?gameHash=e8e5535e21679dee"
+          }
+        }
+      }
+    }
+  }
+}
