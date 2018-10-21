@@ -1,0 +1,10 @@
+{
+  "nalcs": {
+    "teams": "./teams.json",
+    "players": "./players.json",
+    "seasons": {
+      "2017": "./2017/master.json",
+      "2018": "./2018/master.json"
+    }
+  }
+}
